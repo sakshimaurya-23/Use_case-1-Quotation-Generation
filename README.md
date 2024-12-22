@@ -1,6 +1,4 @@
-# Use_case-1-Quotation-Generation
-
-# Email Parsing and Quotation Generation Application
+# Use_Case 1: Quotation-Generation
 
 A Python-based solution for extracting details from `.msg` email files, matching them with a master Excel sheet, and generating quotations using IBM WatsonX AI. This tool streamlines the quotation process, ensuring accuracy and consistency.
 
