@@ -326,7 +326,7 @@ if uploaded_msg_file:
         st.info("Extracting structured details...")
         details = extract_details_with_llm( msg_body)
         table_df = markdown_to_dataframe( details)
-        st.code(details)
+        #st.code(details)
         #st.write(details)
 
         # Extract table
